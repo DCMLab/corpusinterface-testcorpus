@@ -1,0 +1,8 @@
+"chord"	"altchord"	"measure"	"beat"	"totbeat"	"timesig"	"op"	"no"	"mov"	"length"	"global_key"	"local_key"	"pedal"	"numeral"	"form"	"figbass"	"changes"	"relativeroot"	"phraseend"
+".Eb.I"	""	"1"	"1.0"	"1.0"	"2/4"	"1"	"1"	"1"	2.5	"Eb"	"I"	""	"I"	""	""	""	""	false
+"V43"	""	"2"	"1.5"	"3.5"	"2/4"	"1"	"1"	"1"	1.5	"Eb"	"I"	""	"V"	""	"43"	""	""	false
+"I"	""	"3"	"1.0"	"5.0"	"2/4"	"1"	"1"	"1"	2.5	"Eb"	"I"	""	"I"	""	""	""	""	false
+"V2"	""	"4"	"1.5"	"7.5"	"2/4"	"1"	"1"	"1"	1.5	"Eb"	"I"	""	"V"	""	"2"	""	""	false
+"I6"	""	"5"	"1.0"	"9.0"	"2/4"	"1"	"1"	"1"	1.0	"Eb"	"I"	""	"I"	""	"6"	""	""	false
+"vi"	""	"5"	"2.0"	"10.0"	"2/4"	"1"	"1"	"1"	1.0	"Eb"	"I"	""	"vi"	""	""	""	""	false
+"IV\\\\"	""	"6"	"1.0"	"11.0"	"2/4"	"1"	"1"	"1"	2.0	"Eb"	"I"	""	"IV"	""	""	""	""	true
