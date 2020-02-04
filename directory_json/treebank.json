@@ -1,0 +1,39 @@
+[
+  {
+    "title": "Sweeping Up",
+    "measures": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "beats": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "chords": [
+      "D7",
+      "G^7",
+      "F#m7",
+      "Bm",
+      "Em7",
+      "Bm",
+      "Am7"
+    ],
+    "composers": "Swallow, Steve",
+    "year": 1975,
+    "meter": {
+      "numerator": 3,
+      "denominator": 4
+    },
+    "key": "G"
+  }
+]
