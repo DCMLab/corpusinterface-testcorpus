@@ -1,0 +1,10 @@
+global_key,local_key,relative_key,global_meter,local_meter,local_mode,global_mode,path,phrase,part,bar_no,duration,chord,root,rn_chord,sd,type,added,extensions,bass_note,songbook,title,composer,sub_genre,year,filename
+D,D,I,2/4,"(2, 4)",major,major,"['P0', 'S']",P0,,1,0.5,D,D,I,I,,,,,1,A ginga do Mané,Jacob do Bandolim,Choro,,1_aguenta_seu_fulgencio_WF.txt
+D,D,I,2/4,"(2, 4)",major,major,"['P0', 'S']",P0,,2,0.5,A7,A,V7,V,,7,,,1,A ginga do Mané,Jacob do Bandolim,Choro,,1_aguenta_seu_fulgencio_WF.txt
+D,D,I,2/4,"(2, 4)",major,major,"['P0', 'S']",P0,,3,0.5,D,D,I,I,,,,,1,A ginga do Mané,Jacob do Bandolim,Choro,,1_aguenta_seu_fulgencio_WF.txt
+D,D,I,2/4,"(2, 4)",major,major,"['P0', 'S']",P0,,4,0.25,Em,E,IIm,II,m,,,,1,A ginga do Mané,Jacob do Bandolim,Choro,,1_aguenta_seu_fulgencio_WF.txt
+D,D,I,2/4,"(2, 4)",major,major,"['P0', 'S']",P0,,4,0.25,A7,A,V7,V,,7,,,1,A ginga do Mané,Jacob do Bandolim,Choro,,1_aguenta_seu_fulgencio_WF.txt
+D,D,I,2/4,"(2, 4)",major,major,"['P0', 'S']",P0,,5,0.5,D,D,I,I,,,,,1,A ginga do Mané,Jacob do Bandolim,Choro,,1_aguenta_seu_fulgencio_WF.txt
+D,D,I,2/4,"(2, 4)",major,major,"['P0', 'S']",P0,,6,0.25,Em,E,IIm,II,m,,,,1,A ginga do Mané,Jacob do Bandolim,Choro,,1_aguenta_seu_fulgencio_WF.txt
+D,D,I,2/4,"(2, 4)",major,major,"['P0', 'S']",P0,,6,0.25,A7,A,V7,V,,7,,,1,A ginga do Mané,Jacob do Bandolim,Choro,,1_aguenta_seu_fulgencio_WF.txt
+D,D,I,2/4,"(2, 4)",major,major,"['P0', 'S']",P0,,7,0.5,D,D,I,I,,,,,1,A ginga do Mané,Jacob do Bandolim,Choro,,1_aguenta_seu_fulgencio_WF.txt
